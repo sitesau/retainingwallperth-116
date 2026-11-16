@@ -1,0 +1,22 @@
+{
+  "wheel_id": 912,
+  "structure": "umbrella",
+  "slug": "retainingwallperth-116",
+  "project": "retaining-walls-perth-materials-compared-cc9c008a1fad3cf758f76a",
+  "parent_t1_ref": "retainingwallperth-157",
+  "node_role": "feeder",
+  "money_target": "retainingwallperth.au",
+  "primary_kw": "retaining walls perth materials compared",
+  "intended_url": "https://sitesau.github.io/retainingwallperth-116/",
+  "tier": "T2",
+  "writeback_nonce": "9e602bb352645a13",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-perth-quotes-explained-37fb25fa82206c564bca0d26/",
+      "anchor": "Retaining Walls Perth Quotes Explained: Quotes Explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
